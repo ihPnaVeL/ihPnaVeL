@@ -80,6 +80,7 @@ public class Developer {
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihPnaVeL&theme=tokyonight&hide_border=true" />
 </div>
+
 ---
  
 ## 🚀 Featured Projects
@@ -92,6 +93,7 @@ public class Developer {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihPnaVeL&repo=SweetBakery&theme=tokyonight&hide_border=true" />
 </a>
 </div>
+
 ---
 
 
