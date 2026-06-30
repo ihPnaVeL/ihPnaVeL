@@ -74,25 +74,23 @@ public class Developer {
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ihPnaVeL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihPnaVeL&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats-steel-xi-62.vercel.app/api?username=ihPnaVeL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats-steel-xi-62.vercel.app/api/top-langs/?username=ihPnaVeL&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ihPnaVeL&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ihPnaVeL&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
  
 ## 🚀 Featured Projects
  
-<div align="center">
 <a href="https://github.com/ihPnaVeL/DeviceManagementHaUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihPnaVeL&repo=DeviceManagementHaUI&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-steel-xi-62.vercel.app/api/pin/?username=ihPnaVeL&repo=DeviceManagementHaUI&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
 <a href="https://github.com/ihPnaVeL/SweetBakery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihPnaVeL&repo=SweetBakery&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-steel-xi-62.vercel.app/api/pin/?username=ihPnaVeL&repo=SweetBakery&theme=tokyonight&hide_border=true&description_lines_count=2" />
 </a>
-</div>
 
 ---
 
